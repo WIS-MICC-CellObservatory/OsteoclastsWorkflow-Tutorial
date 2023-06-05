@@ -8,7 +8,7 @@ A typical image analysis workflow includes segmentation of regions and objects (
 In this hands-on workshop we will introduce you to building image analysis workflows using Fiji, Ilastik and StarDist. 
 
 <p align="center">
-<img src="https://github.com/WIS-MICC-CellObservatory/main/Fiji-Ilastik-Stardist-Tutorial-OsteoWorkflow/WorkshopOverview.png" width="750" title="Overview">
+<img src="https://github.com/WIS-MICC-CellObservatory/Fiji-Ilastik-Stardist-Tutorial-OsteoWorkflow/blob/main/WorkshopOverview.png" width="750" title="Overview">
 	</p>
 
 ## Workshop outline:  
