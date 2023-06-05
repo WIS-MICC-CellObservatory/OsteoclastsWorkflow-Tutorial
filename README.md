@@ -5,7 +5,7 @@
 This repository include Material used during hands-on tutorial workshop given at the Israeli Society of Microscopy 2023 meeting: Presentation, Exercises and related image files. 
 
 A typical image analysis workflow includes segmentation of regions and objects (eg nuclei or cells), measuring multiple features for objects and regions, and quantifying relations between objects. Fiji is an open-source software platform based on ImageJ and a collection of compatible plugins focusing on general purpose image analysis for life-sciences. It is scriptable and enables fast prototyping of image analysis workflows. Ilastik, StarDist and other Fiji plugins provide an easy way to exploits recent advances in machine-learning and deep-learning based algorithms as handy components for use within image analysis workflows. 
-In this hands-on workshop we will introduce you to building image analysis workflows using Fiji, Ilastik and StarDist. 
+In this hands-on workshop we introduce building image analysis workflows using Fiji, Ilastik and StarDist. 
 
 <p align="center">
 <img src="https://github.com/WIS-MICC-CellObservatory/Fiji-Ilastik-Stardist-Tutorial-OsteoWorkflow/blob/main/WorkshopOverview.png" width="750" title="Overview">
