@@ -23,6 +23,12 @@ In this hands-on workshop we introduce building image analysis workflows using F
 8. Automation guidelines II: Processing whole folder
 9. Use Fiji macro to process a whole folder
 
+To follow the exercise use the presentation (ISM2023-Workshop-Fiji-Ilastik-StarDist.pdf) and related detailed instructions (Fiji_Ilastik_StarDist_Workshop_ISM-2023.pdf)
+
+For further Ilastik training - which was shown interactivly during the workshop - we recomend watching [Ilastik I2K-2022 tutorial](https://www.youtube.com/watch?v=F6KbJ487iiU) or [Ilastik NEUBIAS webinar](https://www.youtube.com/watch?v=_ValtSLeAr0). 
+For further StarDist training - see [Stardist NEUBIAS webinar](https://www.youtube.com/watch?v=Amn_eHRGX5M) 
+For further Fiji macro writing - see [NEUBIAS Fiji Macro webinar](https://www.youtube.com/watch?v=o8tfkdcd3DA)
+
 Data used within this tutorial is courtsey of Dr. Sabina Winograd-Katz and Prof. Benny Geiger, Weizmann Institute of Science
 
  
