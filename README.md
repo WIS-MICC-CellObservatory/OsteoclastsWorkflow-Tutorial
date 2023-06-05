@@ -1,4 +1,4 @@
-# Incorporating Machine Learning Tools into Image Analysis Workflows using Fiji, Ilastik and StarDist  
+# Incorporating Machine Learning Tools into Image Analysis Workflows using Fiji, Ilastik and Stardist  
 
 ## Overview
 
