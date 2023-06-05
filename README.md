@@ -23,7 +23,7 @@ In this hands-on workshop we will introduce you to building image analysis workf
 8. Automation guidelines II: Processing whole folder
 9. Use Fiji macro to process a whole folder
 
-Data used within this tutorial is courtsey of Dr. Sabina Winograd-Katz, Prof. Benny Geiger, Weizmann Institute of Science
+Data used within this tutorial is courtsey of Dr. Sabina Winograd-Katz and Prof. Benny Geiger, Weizmann Institute of Science
 
  
   
