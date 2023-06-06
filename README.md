@@ -11,6 +11,11 @@ In this hands-on workshop we introduce building image analysis workflows using F
 <img src="https://github.com/WIS-MICC-CellObservatory/Fiji-Ilastik-Stardist-Tutorial-OsteoWorkflow/blob/main/WorkshopOverview.png" width="750" title="Overview">
 	</p>
 
+This workshop does not cover the basics of image analysis. If you are not familiar with this, we highly recommend you to go through one of the following resources: 
+[Mooc on Image Processing and Analysis for Life Scientists](https://www.edx.org/course/image-processing-and-analysis-for-life-scientists) by EPFL image analysis team,    OR 
+[Introduction to Bioimage Analysis](https://bioimagebook.github.io/README.html) by Pete Bankhead. 
+Please make sure to follow the Get Prepared section in order to install the software used at the workshop.
+
 ## Workshop outline:  
 
 1. Nuclei segmentation using StarDist
